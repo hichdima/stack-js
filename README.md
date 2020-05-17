@@ -1,4 +1,4 @@
-# linked-list-js
+# stack-js
 ### Stack data structure implemented in javascript (for learning purposes).
 
 Methods included:
